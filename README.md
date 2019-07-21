@@ -1,6 +1,7 @@
 # DELANI STUDIO WEBSITE
 #### This is the landing page for Delani Studios
 #### By **Monica Oduor**
+#### link to live site[https://oduory.github.io/delani/]
 ## Description
 This landing page consists of 7 sections:
 1.Cover Section
