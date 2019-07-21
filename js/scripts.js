@@ -55,5 +55,12 @@ $(document).ready(function(){
   });
   $(document).ready(function(){
 	$(".image8").hover(function(){
+	  $(".p8").fadeToggle();
+	});
+  
+        event.preventDefault();
+    })
+});
 
+  
   
