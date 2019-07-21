@@ -1,5 +1,5 @@
 # DELANI STUDIO WEBSITE
-#### This is the landing page for Delani Studio
+#### This is the landing page for Delani Studios
 #### By **Monica Oduor**
 ## Description
 This landing page consists of 7 sections:
